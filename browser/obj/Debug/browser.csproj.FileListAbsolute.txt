@@ -1,0 +1,10 @@
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\bin\Debug\browser.exe.config
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\bin\Debug\browser.exe
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\bin\Debug\browser.pdb
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.csproj.AssemblyReference.cache
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.Form1.resources
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.Properties.Resources.resources
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.csproj.GenerateResource.cache
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.csproj.CoreCompileInputs.cache
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.exe
+C:\Users\sourc_ueqkrsm\source\repos\browser\browser\obj\Debug\browser.pdb
